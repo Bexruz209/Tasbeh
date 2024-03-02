@@ -8,7 +8,7 @@ let a = 0;
 button.onclick = () => {
     ekran.innerHTML = i += 1
     if (ekran.innerHTML == 100) {
-        alert('Siz 99 zikr aytiz')
+        alert('Siz 99 marta zikr aytiz')
         ekran.innerHTML = i = 0
     }
 }
