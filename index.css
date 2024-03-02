@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.emmer__img {
+    position: relative;
+}
+
+.ekran {
+    position: absolute;
+    top: 97px;
+    left: 156px;
+    width: 200px;
+    border: none;
+    background: green;
+    text-align: center;
+    font-size: 50px;
+    border: none;
+    caret-color: green;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 20px;
+}
+
+.emmer__buton {
+    position: absolute;
+    top: 263px;
+    left: 180px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.emmir__buton{
+    position: absolute;
+    top: 214px;
+    left: 320px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
